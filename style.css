@@ -2067,7 +2067,7 @@ select.mobile-device {
     height: 160px !important;
 }
 
-.contact_form .form-control::-webkit-input-placeholder {
+._form .form-control::-webkit-input-placeholder {
     color: #bcbcbc;
 }
 
